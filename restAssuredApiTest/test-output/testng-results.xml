@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-04T21:19:19 MST" name="Default suite" finished-at="2021-04-04T21:19:21 MST" duration-ms="2173">
+    <groups>
+    </groups>
+    <test started-at="2021-04-04T21:19:19 MST" name="Default test" finished-at="2021-04-04T21:19:21 MST" duration-ms="2173">
+      <class name="com.qa.test.ApiGetTest">
+        <test-method signature="GetBookingIds_VerifyStatusCode()[pri:0, instance:com.qa.test.ApiGetTest@59af0466]" started-at="2021-04-04T21:19:19 MST" name="GetBookingIds_VerifyStatusCode" finished-at="2021-04-04T21:19:21 MST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBookingIds_VerifyStatusCode -->
+      </class> <!-- com.qa.test.ApiGetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
